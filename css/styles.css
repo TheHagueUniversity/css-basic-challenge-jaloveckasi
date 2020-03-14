@@ -118,6 +118,18 @@ header {
   background: #759AAB;
 }
 
+.btn-workexp {
+  color: #EBEBD3;
+  background: #104F55;
+  text-decoration: none;
+  padding: 12px;
+  border-radius: 4px;
+  display: inline-block;
+}
+.btn-workexp:hover {
+  background: rgba(47, 48, 97, 80%);
+}
+
 
 
 /* Education
