@@ -130,6 +130,18 @@ header {
   background: rgba(47, 48, 97, 80%);
 }
 
+/* Hobbies
+------------------------------------*/
+.img-hobby{
+  width: 300px;
+  height: 300px;
+  object-fit:cover;
+}
+.img-hobby:hover{
+    width: 350px;
+  height: 350px;
+  object-fit:cover;
+}
 
 
 /* Education
